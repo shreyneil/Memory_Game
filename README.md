@@ -1,12 +1,12 @@
-# Ben's Memory Game
+# The Memory Game
 
-In my Fend Udacity course, I had to create a memory game where upon clicked, two cards match and stay open. Once all cards are matched, a popup message appears and congratulates the tester for winning the game. The popup gives a score from 1 to 3, how much time it took, and how many moves it took to finish the game. 
+The Requirement of my course was to create this game, I had to create a memory game where upon clicked, two cards match and stay open. Once all cards are matched, a popup message appears and congratulates the tester for winning the game. The popup gives a score from 1 to 3, how much time it took, and how many moves it took to finish the game. 
 
 
 ## Installing from Source
 
 1. Clone the following repo: 
-  * git clone https://github.com/Ul1ra/MemoryGame
+  * git clone https://github.com/shreyneil/Memory_Game
 
 2. Load index.html in browser.
 
@@ -39,7 +39,7 @@ In my Fend Udacity course, I had to create a memory game where upon clicked, two
 
 ## Author
 
-* Ul1ra: Benjamin Cunningham
+* shreyneil : Shreyash Sharma
 
 
 ## License
